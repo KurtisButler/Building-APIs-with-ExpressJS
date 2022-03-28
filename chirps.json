@@ -1,0 +1,15 @@
+{
+    "0": {
+        "user": "Elon",
+        "text": "I am very very rich."
+    },
+    "1": {
+        "user": "Bezos",
+        "text": "I too am very very very very rich."
+    },
+    "2": {
+        "user": "Devito",
+        "text": "I want to be clean"
+    },
+    "nextid": 3
+}
